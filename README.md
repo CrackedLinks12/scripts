@@ -1,4 +1,3 @@
-NEW SCRIPTS: https://github.com/rouxhaver/scripts-2
-
-
-Make sure to check out my youtube channel https://www.youtube.com/channel/UCgj0ZWQoplEMuGkjiNG-ayA
+return {
+"0e7b7130-aeeb-4daf-a3db-45fe77bfc8f8"
+}
